@@ -1,0 +1,4 @@
+emoji==0.6.0
+nltk==3.8.1
+arabert==1.0.1
+transformers==4.25.1
